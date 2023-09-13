@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{3EB21789-42D3-0A00-8036-E0B918C7C855}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Tencent_HW01",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
